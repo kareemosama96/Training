@@ -1,2 +1,3 @@
 # Training
-just for learning 
+just for learning.
+Edit from bash.
